@@ -32,10 +32,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://cdn.glitch.com/2c4ea9bf-68ad-4f56-8961-3d3123c8fd37%2Fgeneral%20procedure.gif?v=1616615904165)
-Winning the game:
-![](https://cdn.glitch.com/2c4ea9bf-68ad-4f56-8961-3d3123c8fd37%2Fwin.gif?v=1616615649139)
-Losing the game:
+![](https://cdn.glitch.com/2c4ea9bf-68ad-4f56-8961-3d3123c8fd37%2Fgeneral%20procedure.gif?v=1616615904165)  
+Winning the game:  
+![](https://cdn.glitch.com/2c4ea9bf-68ad-4f56-8961-3d3123c8fd37%2Fwin.gif?v=1616615649139)  
+Losing the game:  
 ![](https://cdn.glitch.com/2c4ea9bf-68ad-4f56-8961-3d3123c8fd37%2Flose.gif?v=1616615648447)
 
 
